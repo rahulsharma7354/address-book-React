@@ -199,14 +199,15 @@ div.body {
 .addContactDialog {
   visibility: hidden;
   position: absolute;
-  width: 38rem;
-  height: 31rem;
+  width: 35rem;
+  height: 30rem;
   border: 1px solid black;
   box-shadow: rgb(13 26 31 / 12%) 3px 3px 3px 3px, rgb(14 30 37 / 32%) 3px 3px 16px 3px;
   z-index: 1;
   left: 35%;
   background-color: white;
   padding: 16px;
+  margin-top: 3vh;
   
 }
 
@@ -311,7 +312,7 @@ textarea {
   text-decoration: none;
   font-size: 16px;
   position: fixed;
-  left: 65%;
+  left: 62%;
   visibility: hidden;
 }
 
