@@ -52,12 +52,6 @@ ul.bar {
 li {
   float: left;
 }
-
-/* .navBarItems {
-  display: flex;
-  justify-content: start;
-} */
-
 li a {
   font-weight: 700;
   color: white;
@@ -208,7 +202,7 @@ div.body {
   position: absolute;
   width: 38rem;
   height: 31rem;
-  box-shadow: 5px 5px 5px gray, -8px -8px 8px gray;
+  box-shadow: rgb(13 26 31 / 12%) 3px 3px 3px 3px, rgb(14 30 37 / 32%) 3px 3px 16px 3px;
   z-index: 1;
   left: 35%;
   background-color: white;
