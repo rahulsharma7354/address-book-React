@@ -1,38 +1,6 @@
 * {
   font-family: "system-ui";
 }
-body {
-  padding: 0px;
-  margin: 0px;
-}
-.header-section {
-  background-color: rgb(37, 150, 198);
-  width: 100%;
-  height: 8em;
-}
-.header-content {
-  position: absolute;
-  font-size: 350%;
-  font-weight: 200;
-  color: white;
-  margin-left: 1.25rem;
-  margin-top: 2rem;
-  letter-spacing: 2px;
-  font-family: 'Hind', sans-serif;
-}
-
-#heading {
-  margin: 2vh;
-  color: white;
-  font-size: 6vh;
-  font-weight: 200;
-  word-spacing: 2;
-}
-
-div.scaffold {
-  margin: 0px;
-  padding: 0px;
-}
 
 div.top {
   background-color: rgb(51, 153, 203);
@@ -69,7 +37,38 @@ li a {
 li a:hover:not(.active) {
   background-color: #111;
 }
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.header-section {
+  background-color: rgb(37, 150, 198);
+  width: 100%;
+  height: 8em;
+}
+.header-content {
+  position: absolute;
+  font-size: 350%;
+  font-weight: 200;
+  color: white;
+  margin-left: 1.25rem;
+  margin-top: 2rem;
+  letter-spacing: 2px;
+  font-family: 'Hind', sans-serif;
+}
 
+#heading {
+  margin: 2vh;
+  color: white;
+  font-size: 6vh;
+  font-weight: 200;
+  word-spacing: 2;
+}
+
+div.scaffold {
+  margin: 0px;
+  padding: 0px;
+}
 li.icon {
   padding-right: 16px;
   float: right;
